@@ -1,0 +1,84 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f5f5f5;
+    margin: 0;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    width: 100%;
+    max-width: 600px;
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    color: #333;
+    text-align: center;
+}
+
+.add-form {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+#nameInput {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+button {
+    padding: 10px 15px;
+    background: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-left: 10px;
+    font-size: 16px;
+}
+
+button:hover {
+    background: #45a049;
+}
+
+.queue-container {
+    border-top: 1px solid #eee;
+    padding-top: 20px;
+}
+
+h2 {
+    color: #555;
+}
+
+#queueList {
+    list-style: none;
+    padding: 0;
+}
+
+#queueList li {
+    background: #f9f9f9;
+    padding: 12px;
+    border-radius: 4px;
+    margin-bottom: 8px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-left: 4px solid #4CAF50;
+}
+
+.remove-btn {
+    background: #f44336;
+    padding: 6px 10px;
+    border-radius: 3px;
+}
+
+.remove-btn:hover {
+    background: #d32f2f; }
