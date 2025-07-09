@@ -24,7 +24,7 @@
 
 
 ## Технологический стек:
-<a href="https://www.python.org/"><img src="https://img1.akspic.ru/attachments/originals/4/9/3/3/6/163394-programmist_na_python-piton-algoritmicheskij_yazyk-stoyanie-ishodnyj_kod-3840x2160.png" width="66" height="40"></a><a href="https://ya.ru/ai/gpt"><img src="https://static.tengrinews.kz/userdata/news/2023/news_519361/thumb_b/photo_454258.jpeg" width="80" height="40"></a><a href="https://yandex.cloud/ru"><img src="https://avatars.mds.yandex.net/i?id=add1f7dbe58abc3233026125fc749956_l-9107575-images-thumbs&n=13" width="70" height="40"></a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/640px-Unofficial_JavaScript_logo_2.svg.png" width="40" height="40"></a><a href="https://vk.com/"><img src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/TfKk/QGyS93cW7/PNG%20-%20digital/VK%20Logo.png" width="40" height="40"></a><a href="https://nodejs.org/en"><img src="https://avatars.mds.yandex.net/i?id=ad1bf159e807f5c60b7f3dfaec884ea3_l-9221923-images-thumbs&n=13" width="70" height="40"></a>
 
 
 ## Ссылки на ресурсы:
