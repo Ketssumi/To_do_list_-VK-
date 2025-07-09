@@ -32,4 +32,4 @@
 
 
 ## Демонстрация нашего проекта:
-[Список дел](https://t.me/New_places_fr_bot)ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[Презентация](https://docs.google.com/presentation/d/1ghj36Nk9g4GOQpQQGlNKV6goC4h20Wu8bk1N6nlqaf4/edit?slide=id.p1#slide=id.p1)
+[Список дел](https://vk.com/app53866055)ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[Презентация](https://docs.google.com/presentation/d/1ghj36Nk9g4GOQpQQGlNKV6goC4h20Wu8bk1N6nlqaf4/edit?slide=id.p1#slide=id.p1)
